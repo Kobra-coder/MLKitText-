@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MLKitText</string>
+    <string name="us">О приложении</string>
+    <string name="guide">Руководство</string>
+    <string name="ml">Машинное обучение</string>
+    <string name="setting">Настройка</string>
+    <string name="us_content">Мна жерде жаз приолжения туралы
+        Мна жерде жаз приолжения туралы
+        Мна жерде жаз приолжения туралы
+    Мна жерде жаз приолжения туралы</string>
+    <string name="guide_content"> Мна жерде жаз uide_content туралы
+        Мна жерде жаз uide_content туралы
+        Мна жерде жаз uide_content туралы
+    Мна жерде жаз приолжения туралы</string>
+</resources>
